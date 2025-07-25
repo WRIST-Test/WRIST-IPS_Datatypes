@@ -1,1 +1,32 @@
-{"version": "1-build.0.0", "name": "IPS Datatypes", "description": "<p><br></p>", "component_sets": [], "concept": [{"name": "Item", "mro": "M", "description": "", "valueSets": "", "implementationGuidance": "", "informationType": "Record", "type": "item", "minimumMultiplicity": "0", "maximumMultiplicity": "1"}]}
+{
+  "version": "1-build.0.0",
+  "name": "IPS Datatypes",
+  "description": "<p><br></p>",
+  "component_sets": [],
+  "concept": [
+    {
+      "name": "Item",
+      "mro": "M",
+      "description": "",
+      "valueSets": "",
+      "implementationGuidance": "",
+      "informationType": "Record",
+      "type": "item",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1"
+    },
+    {
+      "name": "New Item",
+      "mro": "M",
+      "description": "",
+      "valueSets": "",
+      "implementationGuidance": "",
+      "informationType": "Record",
+      "type": "item",
+      "minimumMultiplicity": "0",
+      "maximumMultiplicity": "1",
+      "concept": [],
+      "relationshipType": "neither"
+    }
+  ]
+}
