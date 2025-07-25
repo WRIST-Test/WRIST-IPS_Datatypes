@@ -17,7 +17,7 @@
       "concept": [],
       "relationshipType": "neither",
       "derivedFrom": "",
-      "isComponent": false,
+      "isComponent": true,
       "valueDomain": [
         {
           "type": "CD"
